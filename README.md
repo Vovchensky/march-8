@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://vovchensky.github.io/march-8/">
-    <img src="./screenshot.jpg" alt="Скриншот проекта">
+    <img src="./screenshot.png" alt="Скриншот проекта">
   </a>
 </p>
 
@@ -12,13 +12,18 @@
 
 **[https://vovchensky.github.io/march-8/](https://vovchensky.github.io/march-8/)**
 
-Тестовые коды: `111111`, `222222`, `333333`
+## Запуск
 
-## Как использовать
+```bash
+npm install
+npm run dev
+```
 
-1. Заполните `src/data/girls.ts` — имя, аватар, текст поздравления и уникальный код для каждой получательницы.
-2. Положите аватары в `public/avatars/`.
-3. Отправьте каждой девушке ссылку на сайт и её персональный код.
+## Сборка
+
+```bash
+npm run build
+```
 
 ## Технологии
 

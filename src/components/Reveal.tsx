@@ -588,7 +588,7 @@ export const Reveal = ({ girl }: Props) => {
                 transition={{ type: "spring", stiffness: 80, damping: 12, delay: 0.2 }}
               >
                 <img
-                  src={girl.avatar}
+                  src={`${import.meta.env.BASE_URL}${girl.avatar}`}
                   alt={girl.name}
                   style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }}
                 />
