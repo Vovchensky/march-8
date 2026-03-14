@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://vovchensky.github.io/march-8/">
-    <img src="./screenshot.png" alt="Скриншот проекта">
+    <img src="./screenshot.jpg" alt="Скриншот проекта">
   </a>
 </p>
 
