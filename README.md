@@ -12,6 +12,8 @@
 
 **[https://vovchensky.github.io/march-8/](https://vovchensky.github.io/march-8/)**
 
+Тестовые коды: `111111`, `222222`, `333333`
+
 ## Запуск
 
 ```bash
